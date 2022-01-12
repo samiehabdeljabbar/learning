@@ -3,4 +3,11 @@ listy = [6, 7]
 stringy = "Hi"
 
 import folium
-azores = folium.folium.Map(location = (38, -27), zoom_start = 6)
+from IPython.display import display
+LDN_Coordinates = (38, -27)
+azores = folium.folium.Map(location = LDN_Coordinates , zoom_start = 6)
+
+
+#all objects have a type
+display(azores)
+
