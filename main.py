@@ -20,3 +20,9 @@ print(area(3))
 # Also identifiers include names of functions that you have
 # The operators are **
 # The delimiters are: =,"" () : []
+#Key words: Def, Return
+# Comments, example all the above comments
+# Blank Lines
+# White Space
+# We also have indentation, which is part of the syntax of python
+
