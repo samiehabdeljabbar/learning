@@ -15,4 +15,5 @@ print(area(3))
 
 # Elements: Objects, Identifiers, Operators, Delimiters, Keywords, Comments, Blank Lines, White Space
 # Objects in this code are: 4, 5, [6, 7], 6, 7, "Hello", "Hi", Function definition, 2,3,9
+#Idenitifiers in this code are: a, b, c, d, area, c
 
